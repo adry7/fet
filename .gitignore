@@ -1,2 +1,6 @@
+# Eclipse
+.project
+.cproject
+
 # PaxHeader folders
 *.PaxHeaders.*
