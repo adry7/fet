@@ -3,4 +3,4 @@
 .cproject
 
 # PaxHeader folders
-*.PaxHeaders.*
+*PaxHeaders.*
