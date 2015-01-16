@@ -2,6 +2,8 @@
 .project
 .cproject
 
-# exclude folders
+# exclude origin folders & files
 PaxHeaders.*/
+PaxHeaders.*/*.*
 tmp/
+tmp/*.*
